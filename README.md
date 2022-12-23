@@ -39,6 +39,8 @@ Furthermore, by segmenting your product catalogue according to variables such as
 For this task, the main concept for performing this task was to consider a customer segmentation method, i.e. the RFM, and 'revise' it for our case. In other words, we transferred the basic concepts of <b>RFM</b> into an inventory management problem, applying an <b>ABC analysis</b> (i.e., a method used in inventory management to categorize inventory based on its importance. It’s based on the Pareto principle—the idea that 20% of your top-performing products account for 80% of your store’s total revenue), in which products were divided into classes of importance:
 - A, _most important_. All products where the cumulative percentage of contribution is up to 80%;
 - B, _moderately important_. Those where the cumulative percentage contribution is between 80% and 90%;
-- C, _least important-. All the remaining products that have small contribution. They require attention.
+- C, _least important_. All the remaining products that have small contribution. They require attention.
+
+
 
 
